@@ -12,14 +12,14 @@ https://raw.githubusercontent.com/auroraqaz9/babesaura/main/black-neon/
 | `symbols/` | Symbol-only icons, SVG 24×24, transparent (85) |
 | `png/framed-64/` | Framed icons, PNG 64px (85) |
 | `png/symbols-24/` | Symbol-only icons, PNG 24px (85) |
-| `decor/` | Chat decor, SVG + PNG (11 each) |
+| `decor/` | Chat decor, SVG + PNG (11 each) + `bn-bg-corner-orbits.jpg` (1672×941) / `bn-bg-corner-orbits-mobile.jpg` (941×1672, rotated) — theme background |
 | `branding/` | `bn-sillytavern-logo-v1.png` (concept logo, 1254×1254) |
 | `mockups/`, `references/` | Design previews only — not used by the theme |
 
 Example (CSS):
 
 ```css
-background-image: url("https://raw.githubusercontent.com/auroraqaz9/babesaura/main/black-neon/decor/bn-bg-desktop.png");
+background-image: url("https://raw.githubusercontent.com/auroraqaz9/babesaura/main/black-neon/decor/bn-bg-corner-orbits.jpg");
 ```
 
 PNGs are losslessly optimized (see `media-optimization-report.json` in the source folder).
