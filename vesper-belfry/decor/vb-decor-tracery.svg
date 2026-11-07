@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 90">
+  <defs>
+    <linearGradient id="fade"><stop stop-color="#b8afa0" stop-opacity="0"/><stop offset=".5" stop-color="#b8afa0"/><stop offset="1" stop-color="#b8afa0" stop-opacity="0"/></linearGradient>
+  </defs>
+  <g fill="none" stroke="url(#fade)" stroke-width="1.2" opacity=".7">
+    <path d="M0 82h240M19 82V69q0-18 22-30 22 12 22 30v13m0 0V53q0-27 57-47 57 20 57 47v29m0 0V69q0-18 22-30 22 12 22 30v13"/>
+    <path d="M79 82V58q0-18 20-31 20 13 20 31v24m2 0V58q0-18 20-31 20 13 20 31v24M112 21l8-8 8 8-8 8Z"/>
+  </g>
+</svg>
